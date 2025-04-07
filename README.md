@@ -12,7 +12,8 @@ This tool is an independent utility not officially affiliated with, endorsed by,
 
 ## Usage
 1. Download the zip
-2. Run the executable
+2. Extract files
+3. Run the executable
 
 ## Links
 - [Official APKTool Website](https://apktool.org/)
