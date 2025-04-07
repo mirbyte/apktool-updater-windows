@@ -1,8 +1,9 @@
 # APKTool Updater for Windows
-A simple tool to keep your APKTool installation up-to-date on Windows. Includes installer.
+A simple tool to keep your APKTool installation up-to-date on Windows.
 
 ## Features
-- Automatically downloads the latest version of APKTool from the official source
+- Checks for updates from official sources
+- Able to download latest version if current installation not found
 - Portable (no installation required)
 - Hash check
 
