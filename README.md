@@ -7,7 +7,6 @@ This tool is an independent utility not officially affiliated with, endorsed by,
 ## Features
 - Checks for updates from official sources
 - Able to download latest version if current installation not found
-- Hash verification coming in the near future
 
 ## Usage
 1. Download the zip
